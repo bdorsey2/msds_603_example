@@ -20,9 +20,6 @@ dependencies:
   - simplejson=3.16.0
   - six=1.12.0
   - sqlite=3.27.2
-  - vc=14.1
-  - vs2015_runtime=14.15.26706
   - wheel=0.33.1
-  - wincertstore=0.2
 prefix: C:\Users\dorse\Miniconda3\envs\MSDS603
 
